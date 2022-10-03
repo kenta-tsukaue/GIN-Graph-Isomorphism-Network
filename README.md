@@ -1,1 +1,1 @@
-# GIN-Graph-Isomorphism-Network
+# GIN-Graph-Isomorphism-Networkを実装してみた
